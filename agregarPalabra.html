@@ -16,12 +16,12 @@
 		<form id="form-palabra">
 			<label for="word">Ingrese una palabra(Solo Mayuscula)</label>
 			<input type="text" id="word" name="word" required
-			minlength="3" maxlength="8" size="10" onkeypress="return (event.charCode >= 65 && event.charCode <= 90)">
-
+			minlength="3" maxlength="8" size="100" onkeypress="return (event.charCode >= 65 && event.charCode <= 90)">	
 		</form>
-		
-		<button id="agregarPalabra">Guardar Palabra</button>
-        <button onclick="location.href='index.html'">Volver</button>
+		<div class="btn-palabra">
+			<button id="agregarPalabra">Guardar Palabra</button>
+			<button onclick="location.href='index.html'">Volver</button>
+		</div>	
 	</main>
 	
 	<footer>

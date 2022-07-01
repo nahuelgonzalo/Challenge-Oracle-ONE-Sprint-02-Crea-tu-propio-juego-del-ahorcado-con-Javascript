@@ -85,7 +85,7 @@ function iniciarJuego(){
    
     
         document.onkeydown = (e) =>{
-if(errores > 1 && contador !== palabraSecreta.length){
+if(errores > 0 && contador !== palabraSecreta.length){
             let letra=e.key.toUpperCase()
             if(filtrarMayuscula(letra)){
             if(!verificarLetraPresionada(e.key)){

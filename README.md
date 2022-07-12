@@ -14,4 +14,4 @@ Requisitos:
 Extras:
 - La página debe tener un campo para inserción de texto con la finalidad de adicionar nuevas palabras al juego, e un botón "Agregar palabra".
 
-https://nahuelgonzalo.github.io/Challenge-Oracle-ONE-Sprint-02-Crea-tu-propio-juego-del-ahorcado-con-Javascript/
+Link al proyecto en github-pages: https://nahuelgonzalo.github.io/Challenge-Oracle-ONE-Sprint-02-Crea-tu-propio-juego-del-ahorcado-con-Javascript/
